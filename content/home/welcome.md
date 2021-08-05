@@ -18,7 +18,7 @@ design:
 <br>
 <br>
 
-<font size="-"> Welcome to my personal web-site. Here you will be able to find links to my articles, cv, and current projects.</font>
+<font size="-"> Welcome to my personal web-site. Here you will be able to find links to my articles, CV, and current projects.</font>
 
 <br>
 
@@ -29,11 +29,5 @@ design:
 
 <font size="-"> I am also an elected Trustee of the UK Political Studies Association (PSA) - Leading trustee on Equality, Diversity, and Inclusion  and I was the co-convenor of the Greek Public Opinion and Parties Group. In 2020, I was awarded the Political Science Association Innovation in Quantitative Methods Teaching Prize and I also won the Early Career Teacher of the Year award (FASS). 
 
-
-<font size="-">I am Lecturer in Political Science at the University of Surrey. My research examines developments in public opinion and political attitudes, political parties and party systems, and electoral behaviour. I am also interested in survey methodology and quantitative methods. My academic work has been published in a wide range of Q1 journals. 
-
-<br>
-
-I am also an elected Trustee of the UK Political Studies Association (PSA) and I was the co-convenor of the Greek Public Opinion and Parties Group. In 2020, I was awarded the Political Science Association Innovation in Quantitative Methods Teaching Prize and I also won the Early Career Teacher of the Year award (FASS). </font>
 
 

@@ -24,6 +24,6 @@ Duration of the project: September 2021-September 2022
 
 Project supervisors: [Roula Nezi](roulanezi.com) and [Georgios Karyiotis](https://www.gla.ac.uk/schools/socialpolitical/staff/georgioskaryotis/)
 
-Funded by the Hellenic Observatory, London School of Economics
-
 Research Assistant: [Iakovos Makropoulos](https://iakovos-makropoulos.netlify.app/)
+
+Funded by the Hellenic Observatory, London School of Economics

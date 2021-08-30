@@ -22,7 +22,7 @@ finally, how they manifest in contemporary partisan identities.
 
 Duration of the project: September 2021-September 2022
 
-Project supervisors: [Roula Nezi](www.roulanezi.com) and [Georgios Karyiotis](https://www.gla.ac.uk/schools/socialpolitical/staff/georgioskaryotis/)
+Project supervisors: [Roula Nezi](https://www.roulanezi.com/) and [Georgios Karyiotis](https://www.gla.ac.uk/schools/socialpolitical/staff/georgioskaryotis/)
 
 Research Assistant: [Iakovos Makropoulos](https://iakovos-makropoulos.netlify.app/)
 

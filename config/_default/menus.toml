@@ -18,18 +18,22 @@
   url = "teaching"
   weight = 30
 
+  [[main]]
+    name = "Affective Polarisation"
+    url = "affective_polarisation"
+    weight = 40
 
 [[main]]
   name = "Projects"
   url = "projects"
-  weight = 40
+  weight = 50
 
   [[main]]
     name = "Data"
     url = "data"
-    weight = 50
+    weight = 60
 
 [[main]]
    name = "Experiments"
     url = "experiments"
-    weight = 60
+    weight = 70

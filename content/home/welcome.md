@@ -22,6 +22,8 @@ I am Senior Lecturer (Associate Professor) in Political Science at the Universit
 
 <br>
 
-<small>I am also an elected Trustee of the UK Political Studies Association (PSA) - Leading trustee on Equality, Diversity, and Inclusion  and I was the co-convenor of the Greek Public Opinion and Parties Group. In 2020, I was awarded the Political Science Association Innovation in Quantitative Methods Teaching Prize and I also won the Early Career Teacher of the Year award (FASS).</small>
+<small>I am also an elected Trustee of the UK Political Studies Association (PSA) - Leading trustee on Equality, Diversity, and Inclusion. I am also a member of the steering committee for the ECPR Standing Group on Public Opinion and Voting Behavior and I was the co-convenor of the Greek Public Opinion and Parties Group. 
 
-<small>You find more about my current project on affective polarisation [here](https://www.roulanezi.com/affective_polarisation/)</small>
+In 2020, I was awarded the Political Science Association Innovation in Quantitative Methods Teaching Prize and I also won the Early Career Teacher of the Year award (FASS).</small>
+
+<small>Here you may find more about my project on affective polarisation [here](https://www.roulanezi.com/affective_polarisation/)</small>

@@ -7,6 +7,21 @@ view: 4
 ---
 
 
+**_Divided Nations: The Cultural Foundations of Affective Polarisation_**
+BA/Leverhulme Small Research Grants
+
+Partisan polarisation has been a fact for most Western democracies but recently supporters of opposing
+parties view not only the party but also the supporters of that party negatively. This phenomenon called
+“affective polarisation”, describes a type of polarisation encompassing citizens' negative emotional reactions -
+animosity- towards an out-group on the basis of the party they support. Several recent studies have reported
+an increase in affective polarisation in many European societies but what explains this phenomenon? In this
+project, I propose an alternative theoretical explanation hypothesising that affective polarisation, is also a byproduct
+of cultural divides cutting across partisan lines. The politicisation of cultural identities is increasingly
+aligned with a partisan identity to a degree that they now divide the new left and far-right voters. This pilot
+project will serve the purpose of a first small-scale empirical test that will be used to prove the viability of my
+theory.
+
+
 <br>
 
 **_Cultural divides: Understanding the role of affective polarisation_**

@@ -8,6 +8,26 @@ view: 4
 
 <br>
 
+Roula Nezi (2024) A tale of two crises: Affective polarisation in Greece, Frontiers in Political Science
+(accepted for publication).
+
+<br>
+
+Nezi, R., Karyotis, G., and Makropoulos, I. (2023). Culture wars? Assessing the impact of affective
+polarisation on cultural battles.LSE Hellenic Observatory Paper No.190.
+
+<br>
+
+Foa, R. S., and Nezi, R. (2023). Piercing the Fog of War: Measuring Russian Public Opinion via
+Online Search Data.Bennett Institute for Public Policy, University of Cambridge.
+
+<br>
+
+Roula Nezi (2023) Greece: Politicisation in media, Parliamentary debates, and voting in 2019, in
+EU Politicisation and its Consequences for Voting Media, Parliamentary Debates and Electoral
+Behaviour in Europe, 2002-2020, (eds) Marina Costa Lobo. Routledge.
+<br>
+
 
 [Wegscheider, C., & Nezi, R. (2021). Who belongs to the people? The societal boundaries of national
 and European notions of citizenship. In Democratic Citizenship in Flux (pp. 173-192). transcript-

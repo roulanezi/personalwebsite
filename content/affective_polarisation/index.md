@@ -6,9 +6,12 @@ title:
 view: 4
 ---
 
-
+<br>
 **_Divided Nations: The Cultural Foundations of Affective Polarisation_**
+
 BA/Leverhulme Small Research Grants
+
+Duration: 01 April 2023 -- 30 September 2024
 
 Partisan polarisation has been a fact for most Western democracies but recently supporters of opposing
 parties view not only the party but also the supporters of that party negatively. This phenomenon called

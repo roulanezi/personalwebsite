@@ -20,6 +20,7 @@ polarisation on cultural battles.LSE Hellenic Observatory Paper No.190.
 
 Foa, R. S., and Nezi, R. (2023). Piercing the Fog of War: Measuring Russian Public Opinion via
 Online Search Data.Bennett Institute for Public Policy, University of Cambridge.
+
 Media coverege [The Times](https://www.thetimes.co.uk/article/russia-anti-war-putin-regime-happiness-levels-2023-hm6f7fzpq)
 
 <br>

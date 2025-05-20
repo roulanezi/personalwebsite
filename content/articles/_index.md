@@ -6,10 +6,21 @@ title: Publications
 view: 4
 ---
 
+Improving issue representation with candidate‐level voting advice applications
+M Germann, F Mendez, J Wheatley, C Djouvas, R Nezi, M Wall
+European Journal of Political Research, 2025.
+
 <br>
 
-Roula Nezi (2024) A tale of two crises: Affective polarisation in Greece, Frontiers in Political Science
-(accepted for publication).
+Nezi R., Lefkofridi Z., (2025) Back to the future: New Democracy’s dominance and the left’s fragmentation in the June 2023 Greek parliamentary election
+South European Society and Politics, 1-19, 2025
+
+<br>
+
+Still Second-Order in 2024?: National, Nationalist and Personalised Issues in the Greek EP election. R Nezi, Z Lefkofridi
+Politique européenne 86 (4), 122-129, 2024
+
+Nezi R., tale of two crises: Affective polarisation in Greece, Frontiers in Political Science
 
 <br>
 
